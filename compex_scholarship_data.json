@@ -1,0 +1,114 @@
+{
+    "scheme": "COMPEX Scholarship Scheme",
+    "description": "COMPEX is a scholarship scheme provided to Nepalese students by the Government of India for pursuing undergraduate courses in Engineering, Agriculture, Nursing, and Pharmacy in Indian institutes. Students who have either completed their 10+2 or are awaiting the result of 12th class are eligible to apply for the scholarship. They must be between 17-22 years of age. The selection of students is done on the basis of an online Remote Proctored Exam conducted by the Embassy of India.",
+    "courses": [
+      {
+        "course": "BE/B.Tech",
+        "eligibility": "60% marks in aggregate and 50% marks in English in Class XII (10+2) and at least 60% marks in each subject i.e. Physics (P), Chemistry (C), and Mathematics (M) in Class XII or equivalent to 10+2 CBSE standard in India."
+      },
+      {
+        "course": "B.Sc. (Agriculture)",
+        "eligibility": "60% marks in aggregate and 50% marks in English in Class XII (10+2) and at least 55% marks in each subject i.e. Physics (P), Chemistry (C), and Biology (B) in Class XII or equivalent to 10+2 CBSE standard in India."
+      },
+      {
+        "course": "B.Pharmacy",
+        "eligibility": "60% marks in aggregate and 50% marks in English in Class XII (10+2) and at least 55% marks in each subject i.e. Physics (P), Chemistry (C), and Biology (B) in Class XII or equivalent to 10+2 CBSE standard in India."
+      },
+      {
+        "course": "B.Sc. (Food Technology)",
+        "eligibility": "60% marks in aggregate and 50% marks in English in Class XII (10+2) and at least 55% marks in each subject i.e. Physics (P), Chemistry (C), and Biology (B) in Class XII or equivalent to 10+2 CBSE standard in India."
+      },
+      {
+        "course": "B.Sc. (Nursing)",
+        "eligibility": "60% marks in aggregate and 50% marks in English in Class XII (10+2) and at least 55% marks in each subject i.e. Physics (P), Chemistry (C), and Biology (B) in Class XII or equivalent to 10+2 CBSE standard in India."
+      }
+    ],
+    "age_limit": "17-22 years",
+    "application_process": {
+      "announcement": "Scheme is announced tentatively in May/June.",
+      "notice_publication": "Notice of COMPEX Scholarship Scheme is advertised in local newspapers and uploaded on Embassy of India’s website (www.indembkathmandu.gov.in)."
+    },
+    "scholarship_details": {
+      "benefits": [
+        "Full fee waiver (tuition, admission, affiliation charges charged by the college)",
+        "Free accommodation",
+        "Stipend of around INR 6000 monthly"
+      ],
+      "mess_fees": "Students usually pay mess charges on their own. Mess fee in Indian colleges varies from INR 15,000/- to 40,000/- per year."
+    },
+    "college_allocation": {
+      "process_time": "There is no fixed time. It varies every year, you may expect 2-3 months after the exam. Results are not published publicly but only the selected students get notified through the email id provided during the form-filling process.",
+      "allocating_body": "EdCil, Noida, UP, India",
+      "website": "www.edcil.co.in"
+    },
+    "travel_expenses": {
+      "plane_train_tickets": "First, you have to buy on your own. While submitting the joining report, you have to submit plane tickets. After that, plane or train fares (whichever is convenient to you) will be reimbursed to your account.",
+      "taxi_bus_train": "For up to 50 KMs per person, taxi fares will be reimbursed. Otherwise, take a bus or a train."
+    },
+    "hostel_details": {
+      "rules": "It is a Bachelors hostel and you will have a lot of fun.",
+      "laundry": "You will have a washing machine or Dhobi. This depends on the college."
+    },
+    "exam_attempts": "You can give exams multiple times.",
+    "senior_contact": "You may get mobile numbers of seniors from the Foreign Admission In-charge of the college.",
+    "placement_opportunities": {
+      "availability": "Most colleges allow Nepali students for placements but they need to create their PAN card and Aadhaar card in India.",
+      "variation": "Placement opportunities vary from branch to branch. For CSE, there are many opportunities in India. Undergraduate college matters a lot when seeking a job. It also depends on personal attributes."
+    },
+    "additional_information": {
+      "pan_card_creation": "Anyone residing in India can create a PAN card.",
+      "pan_card_documents": [
+        "Indian bank account statement",
+        "Nepali or (other country) passport"
+      ],
+      "sim_card_obtainment": "You will need to take a sim card from your home itself by asking your relatives in India. You can also ask anyone else you know in the college. To get a sim card, it requires an Aadhaar card.",
+      "bank_account_opening": [
+        "Any ID proof of your country",
+        "Bonafide certificate from your hostel",
+        "Student ID card of your college"
+      ]
+    },
+    "NIT_admissions": [
+      {
+        "question": "Can I get into NITs?",
+        "answer": "Yes, you can apply for different NITs listed in COMPEX but make sure you have a good academic score and a decent percentile in JEE Mains."
+      },
+      {
+        "question": "Can I get into NITs without JEE through COMPEX?",
+        "answer": "Yes, you can get some NITs directly through COMPEX even without JEE. Examples include National Institute of Technology Meghalaya, Shillong, National Institute of Technology Rourkela Odisha, National Institute of Technology Silchar, Assam, and National Institute of Technology, Kurukshetra."
+      }
+    ],
+    "IIT_admissions": [
+      {
+        "question": "Can I get into IITs?",
+        "answer": "You can apply but make sure you have great previous academic scores and a great JEE Advanced score."
+      },
+      {
+        "question": "Can I get into IIT without JEE Advanced?",
+        "answer": "No, for undergraduate courses it is not possible to get admission in IITs without JEE Advanced. For postgraduate courses, you can get some IITs without any additional entrance exam but COMPEX is not for postgraduate courses so you can look for other scholarship options such as Study in India, and ICCR scholarships."
+      }
+    ],
+    "political_power": [
+      {
+        "question": "Do I require political power to get COMPEX scholarship?",
+        "answer": "The Embassy of India only entertains applications directly from the applicant himself/herself. The Embassy does not recognize or receive applications through any so-called Education Consultants/Middle-men/Agencies in Nepal. Students are advised to beware of such unscrupulous persons/agencies. Applications found to have been received through such agencies/persons are liable to be rejected. However, there are reports that some students have been selected through political influence."
+      },
+      {
+        "question": "Can I get this scholarship without political power and source?",
+        "answer": "Yes, if you have good academic scores in 12th and can score great in the COMPEX entrance exam, you can get the scholarship. However, more seats are taken by political powers, so also consider that."
+      }
+    ],
+    "education_consultancy": [
+      {
+        "question": "Can education consultancy help me get this scholarship?",
+        "answer": "Mostly no. They take your money and don’t help you get the scholarship. If you get the scholarship by yourself, they will not return the money. In case you don’t get it, they will persuade you saying they tried a lot but it cannot be done. After a long conflict, they may return the money. Observing the current situation, some students are getting results with the help of well-known Nepali politicians."
+      }
+    ],
+    "college_contact": [
+      {
+        "question": "Can I contact the college directly and pay a commission to get this scholarship?",
+        "answer": "No, colleges are unaware of the fact that seats are being captured by politicians."
+      }
+    ]
+  }
+  
