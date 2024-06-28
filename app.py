@@ -1,5 +1,5 @@
 from flask import Flask, request, jsonify
-from transformers import DistilBertForQuestionAnswering, DistilBertTokenizer
+from transformers import DistilBertForQuestionAnswering, DistilBertTokenizer, pipeline
 import json
 import os
 
@@ -30,9 +30,10 @@ def load_data():
 qa_pairs = load_data()
 
 # Load the pre-trained BERT model and tokenizer
-mmodel_name = 'distilbert-base-uncased'
+model_name = 'distilbert-base-uncased'
 model = DistilBertForQuestionAnswering.from_pretrained(model_name)
 tokenizer = DistilBertTokenizer.from_pretrained(model_name)
+
 # Initialize the pipeline
 qa_pipeline = pipeline('question-answering', model=model, tokenizer=tokenizer)
 
